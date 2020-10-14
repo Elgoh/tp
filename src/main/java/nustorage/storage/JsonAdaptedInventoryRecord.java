@@ -35,9 +35,9 @@ class JsonAdaptedInventoryRecord {
      */
     @JsonCreator
     public JsonAdaptedInventoryRecord(InventoryRecord source) {
-        this.quantity = source.getQuantity();
-        this.itemName = source.getItemName();
-        this.dateTime = source.getDateTime();
+        quantity = source.getQuantity();
+        itemName = source.getItemName();
+        dateTime = source.getDateTime();
     }
 
 
