@@ -462,8 +462,11 @@ The following table gives a summary of the [__universal commands__](#53-universa
 |Description|Command and Example|
 |---|---|
 | __Exit programme__ | `exit` |
+| __Sort records by name__ | `sort_by_name` |
+| __Sort records by date__ | `sort_by_date` |
 | __Switch to inventory__ | `goto_inventory` |
 | __Switch to finance__ | `goto_finance` |
+
 
 ---
 
